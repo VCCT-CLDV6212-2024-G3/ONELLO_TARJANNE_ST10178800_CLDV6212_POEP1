@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="st10178800-G3" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="st10178800-poe" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

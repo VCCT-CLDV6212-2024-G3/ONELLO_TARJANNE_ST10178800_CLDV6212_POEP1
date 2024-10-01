@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\services\\azurefunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\services\\azurefunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\function.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\function.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\loyalty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\loyalty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|c:\\users\\travi\\source\\repos\\onellotarjannest10178800cldv6212poepart1\\onellotarjannest10178800cldv6212poepart1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FF77B6-859E-441C-B238-249EBF6CDA12}|ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1.csproj|solutionrelative:onellotarjannest10178800cldv6212poepart1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QueueService.cs",
-              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\QueueService.cs",
-              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\QueueService.cs",
-              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\QueueService.cs",
-              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\QueueService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T20:07:43.058Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T05:57:59.627Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -76,33 +115,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAALwAAAAAAAAAAAAQwMAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T17:42:20.704Z",
+              "DocumentIndex": 0,
+              "Title": "AzureFunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\AzureFunctionService.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\AzureFunctionService.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\AzureFunctionService.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\AzureFunctionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:29:18.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Program.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Program.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Program.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:00:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Function.cshtml",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Function.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Function.cshtml",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Function.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T05:11:56.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\FunctionController.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\FunctionController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\FunctionController.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\FunctionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:10:19.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:26:15.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Controllers\\UserProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:20:52.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:05:21.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Orders.cshtml",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Orders.cshtml",
               "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Orders.cshtml",
               "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Orders.cshtml",
               "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Orders.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T14:22:08.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T14:22:08.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:12:56.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T15:26:14.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Loyalty.cshtml",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Loyalty.cshtml",
               "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Loyalty.cshtml",
@@ -114,27 +248,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
-              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
-              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T14:12:56.991Z"
+              "DocumentIndex": 9,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\BlobService.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\BlobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:27:48.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TableService.cs",
-              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\TableService.cs",
-              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\TableService.cs",
-              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\TableService.cs",
-              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Services\\TableService.cs",
+              "DocumentIndex": 11,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\UserProfile.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\UserProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T14:10:34.344Z"
+              "WhenOpened": "2024-09-29T17:05:27.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\Product.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:25:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ONELLOTARJANNEST10178800CLDV6212POEPART1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:25:51.969Z"
             }
           ]
         }

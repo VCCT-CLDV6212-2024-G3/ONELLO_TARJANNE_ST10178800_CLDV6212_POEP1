@@ -24,6 +24,7 @@ namespace ONELLOTARJANNEST10178800CLDV6212POEPART1.Controllers
         {
             return View();
         }
+
         public IActionResult Profile()
         {
             return View();
@@ -44,6 +45,11 @@ namespace ONELLOTARJANNEST10178800CLDV6212POEPART1.Controllers
         {
             return View();
         }
+        public IActionResult Function()
+        {
+            return View();
+        }
+
 
         [HttpPost]
         public async Task<IActionResult> UploadImg(IFormFile file)
